@@ -11,7 +11,6 @@ I'm interested in building products and systems that solve real-world problems, 
 - Developer Tools
 - Product Development
 
----
 
 ## 🚀 Currently Building
 
@@ -33,7 +32,6 @@ Current implementations:
 - Distributed task processing
 - Deployment & infrastructure
 
----
 
 ## 🤖 Exploring AI
 
@@ -53,7 +51,6 @@ Current interests:
 - Agent-based automation
 - AI-assisted content and media workflows
 
----
 
 ## 🛠️ Technologies I Use
 
@@ -94,7 +91,6 @@ Current interests:
 - Vector Databases
 - RAG Architectures
   
----
 
 ## 🌱 Currently Learning
 
@@ -104,7 +100,6 @@ Current interests:
 - Product Thinking
 - AI Agents
 
----
 
 ## 📖 Build In Public
 
@@ -116,7 +111,6 @@ I use GitHub to document:
 - Technical experiments
 - Lessons learned
 
----
 
 ## 📫 Contact
 
